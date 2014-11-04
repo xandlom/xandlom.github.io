@@ -491,6 +491,7 @@ header h2 {
 #main-content {
   width: 690px;
   float: left;
+  padding-left: 250px;
 }
 
 #main-content img {
@@ -744,7 +745,6 @@ footer {
   background: transparent url('../images/hr.png') 0 0 no-repeat;
   margin-top: 40px;
   padding-top: 20px;
-  padding-left: 320px;
   padding-bottom: 30px;
   font-size: 13px;
   color: #aaa;
